@@ -1,4 +1,4 @@
-# project1
+Notes: IN THE HTML , there are 3 images that need to be uploaded. I DO NOt know if the images will pull up -or how to create a separate folder. 
 
 4 html files:
 
