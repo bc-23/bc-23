@@ -11,3 +11,6 @@ countdown.html
 style.css   (for index, about, services)
 1style.css  (for countdown page only)
 3 images    (for countdown page only)
+
+1 javascript file:
+1script.js
